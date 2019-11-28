@@ -20,8 +20,9 @@ Organizations making the transition to data-driven processes must employ the mos
 * Use the Python and R language's to load data, prepare data for analysis, compute summary statistics, create charts and execute functions
 
 
-Course Schedule:
 
-![Schedule](./images/schedule.png)
+
+
+![UW_DS_Certificate](./images/RyanTimbrook_UWDataScience_Certificate.png)
 
 University of Washington, Certificate in Data Science - DATASCI 250 - Intro to Data Science
